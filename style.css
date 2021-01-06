@@ -1,6 +1,7 @@
 body{
     margin:0;
     background-color: lightsteelblue;
+    font-family: 'Play', sans-serif;
 }
 .half-width{
     width:40%;
@@ -59,7 +60,7 @@ section {
     background-image: url(img/imges.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 700px ;
+    background-size: 700px,500px ;
     height: 150px;
     
     
