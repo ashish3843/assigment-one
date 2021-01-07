@@ -54,32 +54,53 @@ section {
 .top-sec {
     margin-top: 50px;
 }
+
 .lower-part{
-    padding-top: 40px;
-    margin-top: 40px;
+    
     background-image: url(img/imges.png);
+    background-size: 700px 150px;
     background-repeat: no-repeat;
+    margin-bottom: 10px;
     background-position: center;
-    background-size: 700px,500px ;
-    height: 150px;
     
+}
+#solved{
+    margin-left: 400px;  
+    padding-top: 75px;
+    float: left;
+}
+#solve{
+    float: right;
+    padding-top: 95px;
+    margin-right: 420px;
+   
     
-    text-align: center;
 }
 h3{
     color:white;
 }
+
+
+
 h1{
     font-size: 50px;
 }
 h2{
     font-size: 40px;
 }
-}
+
 p{
     text-align: justify;
-    color:darkolivegreen;
+    color: darkolivegreen;
 }
 footer p{
     text-align: center;
 }
+#height{
+    height: 200px;
+    padding-bottom: 10px;
+    margin-top: 100px;
+}
+
+    
+
